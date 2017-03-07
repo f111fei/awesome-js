@@ -2,6 +2,10 @@
 
 List the awesome javescript projects used in the my projects.
 
+## file system
+
+* fs-extra - https://github.com/jprichardson/node-fs-extra
+
 ## keybinding
 
 * keymaster - https://github.com/madrobby/keymaster
